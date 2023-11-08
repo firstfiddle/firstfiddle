@@ -1,0 +1,267 @@
+/* navbar */ 
+.weblogo{
+    width: 10%;
+  }
+  .navbar {
+    background-color: #0000009c !important;
+  }
+  
+  .navbar-nav li {
+    padding: 0 10px;
+  }
+  
+  .navbar-nav li a {
+    color: #fff !important;
+    font-weight: 100;
+    font-size: 15px;
+  }
+  .navbar-nav li a:hover{
+    background-color: orange;
+  }
+  .mob{
+    display: none;
+  }
+  
+  
+   /* end navbar */
+  .img123{
+      width: 80%;
+  }
+  .a{
+      padding-top: 20px;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      font-family: prague;
+  }
+  .b{
+      line-height: 35px;
+      letter-spacing: 1px;
+      word-spacing: 1px;
+      text-align: justify;
+  }
+  .banner{
+      background: black;   
+        width: 100%;
+    
+    }
+    .c{
+      margin-top: 102px;
+      font-family: prague;
+      color: #fff;
+      font-size: 50px;
+      text-transform: uppercase;
+    }
+    .d{
+      line-height: 40px;
+      letter-spacing: 1px;
+      color: white;
+    }
+    .e{
+      padding: 3rem 0 ;
+    }
+    .f{
+      font-size: 38px;
+      color: #fff;
+      font-family: sans-serif;
+      font-weight: bolder;
+     text-transform: uppercase;
+     text-align: start;
+    }
+    .g{
+      color: #ffff;
+      font-weight: 400;
+      text-align: start;
+    
+    }
+    .h{
+      color: #fba919;
+      font-size: 43px;
+    }
+    a{
+      text-decoration: none;
+    }
+    .cc{
+      background: url(https://pn-paul.netlify.app/image/ffback2.png);
+      width: 100%;
+    }
+  @media(max-width :768px){
+      .img123{
+      width: 100%;
+      margin-top: 20px;
+    
+  }   
+  .mob{
+    display: block;
+  }
+  .none{
+    display: none;
+  }
+  .navbar {
+    background-color: orange !important;
+  }
+  .slid{
+    padding-top: 77px;
+  }
+  }
+  /* about css */
+.story{
+    background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+.change{
+  background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+  background-position: center;
+}
+.with{
+  line-height: 3;
+  font-weight: 100;
+  text-align: justify;
+  padding: 0 12px;
+}
+.our{
+  text-transform: uppercase;
+  font-size: 32px;
+   font-family: prague;
+}
+  /* about css end */
+
+  /*brand css  */
+.brand{
+  background:url(https://pn-paul.netlify.app/image/brands.jpg);
+  width: 100%;
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+}
+.b1{
+  text-transform: uppercase;
+    padding-top: 140px;
+    margin-top: 9rem;
+    letter-spacing: 6px;
+    font-family: prague;
+    color: white;
+    font-size: 60px;
+}
+
+  /* brand css end */
+
+  /* our css */
+   .our{
+    background: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+     }
+     .ph1{
+      background: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+ 
+     }
+     .ph2{
+      background: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+     }
+     .ph3{
+      background: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+
+     }
+     .ph4{
+      background: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+     }
+     .ph5{
+      background: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+      background-position: center;
+      background-size: cover;
+      width: 100%;
+     }
+  /* our css end */
+
+  /*  press css */
+   .press{
+    background: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+   }
+   .off{
+    font-size: 0.7cm;
+    font-family: prague;
+    position: relative;
+    top: -7px;
+    left: 7px;
+   }
+  /* press css end */
+
+  /* contact css */
+  .contact{
+    background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+  }
+  .send{
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 30px;
+  }
+  .cr{
+    color: #fba919;
+  }
+  /* css end */
+
+  /* contact css */
+   .come{
+    font-family: prague;
+    letter-spacing: 2px;
+    word-spacing: 8px;
+    font-size: 3rem;
+   }
+   .is{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+}
+
+  /*  end*/
+
+  /* carrees css */
+  .car{
+    background:  url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+   }
+
+  .st{
+    font-size: 24px;
+    font-weight: 400;
+}
+.ta{
+  font-size: 19px;
+    font-weight: 100;
+}
+  /* carr css end */
