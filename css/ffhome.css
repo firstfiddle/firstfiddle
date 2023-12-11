@@ -105,7 +105,7 @@
   }
   /* about css */
 .story{
-    background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    background: url(../image/about.jpg);
     width: 100%;
     height: 650px;
     background-position: center;
